@@ -1,0 +1,72 @@
+
+body {
+    background-color: #CA907E;
+    background-image: url('https://s3.cine3.com/2021/01/the-office-reboot-01.jpg');
+    background-size: cover;
+}
+
+main {
+    min-height: 100px;
+    width: 100%;
+    padding: 200px 0;
+}
+
+.container {
+    background-color: rgba(223, 199, 212, 0.8);
+    width: 1500px;
+    height: 600px;
+    border-radius: 10px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.row-1 {
+    margin-bottom: 60px;
+   
+    
+    
+}
+
+.row-2 {
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 60px;
+    color: white;
+    
+   
+    
+    
+}
+
+.row-3 {
+    margin-bottom: 5px;
+    
+   
+    
+}
+
+.row-4 {
+    
+    
+    
+}
+
+.row-5 {
+    margin-top: 60px;
+   
+}
+
+
+
+
+
+
+
+
+
+
